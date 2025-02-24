@@ -1,0 +1,1 @@
+This repository demonstrates a subtle ZeroDivisionError in a Python function. The function attempts to handle the case where either 'a' or 'b' is zero. However, it misses the crucial scenario when both are zero, leading to an unexpected error.  The solution highlights how to correctly handle this edge case to prevent the ZeroDivisionError.
